@@ -1,8 +1,8 @@
 {
   "name": "transactions",
   "description": "Undo/Redo stack based on transactions",
-  "homepage": "https://github.com/JackAdams/meteor-transactions",
-  "author": "Brent Abrahams <brent_abrahams@yahoo.com>",
+  "homepage": "https://github.com/fbeenaerts/meteor-transactions",
+  "author": "Filip Beenaerts based on Brent Abrahams",
   "version": "0.1.18",
-  "git": "https://github.com/JackAdams/meteor-transactions.git"
+  "git": "https://github.com/fbeenaerts/meteor-transactions.git"
 }
