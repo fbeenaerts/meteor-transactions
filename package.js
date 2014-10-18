@@ -1,8 +1,8 @@
 Package.describe({
   summary: "Undo/Redo stack based on transactions",
   version: "0.2.3",
-  git: "https://github.com/jackadams/meteor-transactions.git",
-  name: "babrahams:transactions"
+  git: "https://github.com/fbeenaerts/meteor-transactions.git",
+  name: "fbeenaerts:transactions"
 });
 
 Package.on_use(function (api, where) {
